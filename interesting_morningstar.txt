@@ -1,0 +1,19 @@
+This file contains interesting morningstar data.
+
+financial_health_grade: firm's equity viewed as a call option; likelihood				to "repay" determines health
+growth_grade: based on trend
+growth_score: stock expected to grow relative to other similar stocks
+profitability_grade: what it sounds like
+
+accounts_payable: money owed to suppliers
+accounts_receivable: money owed by customers
+cash: currency on hand and demand deposits with banks
+cash_and_cash_equivalents: probably better; includes liquid stuff
+commcercial_loan: short term loans, 90 days usually, to finance seasonal 
+		  working capital needs
+current_assets: total amount of assets that are semiliquid
+current_debt: amount of long term debt due within a year
+current_deferred_liabilities: liabilities that are past due
+current_liabilities: debts or obligations due within a year
+debt_total: total debt of any term length
+
